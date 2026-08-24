@@ -49,10 +49,11 @@ Wi-Fi / MQTT Services
 
 The GATT interface was tested using nRF Connect to validate characteristic
 discovery, Read/Write operations and persistent configuration behavior.
+<img width="682" height="1263" alt="télécharger" src="https://github.com/user-attachments/assets/ac2c03bf-fe44-45d8-8a1a-f7afe5a15bb8" />
 
 ## Note
 
 This repository presents the architecture and technical work developed during
 an embedded firmware internship. Proprietary company firmware and confidential
-source code are not included.<img width="682" height="1263" alt="télécharger" src="https://github.com/user-attachments/assets/ac2c03bf-fe44-45d8-8a1a-f7afe5a15bb8" />
+source code are not included.
 
